@@ -26,6 +26,7 @@
 - greattzx
 - [Chaitanya Raj](https://github.com/Chaitanya-Raj)
 - Jason K
+- [Min Shin Khant](https://github.com/minshinkhant)
   [Parasseril kevin Sunny](https://github.com/kevinsunny1996)
 - [Sidak Singh Aulakh](https://github.com/co16353sidak)
 - [E Eigbe](https://github.com/Eghonghonaye)
